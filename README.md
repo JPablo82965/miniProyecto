@@ -22,4 +22,4 @@ El **Generador de Frases Motivacionales** es una aplicación web que genera fras
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu_usuario/generador-frases-motivacionales.git
+   git clone git@github.com:JPablo82965/miniProyecto.git
